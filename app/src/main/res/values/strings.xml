@@ -1,0 +1,9 @@
+<resources>
+    <!-- Title for the application   -->
+    <string name="app_name">Miwok</string>
+    <!-- Category Names   -->
+    <string name="catgory_phrases">Phrases</string>
+    <string name="catgory_colors">Colors</string>
+    <string name="catgory_numbers">Numbers</string>
+    <string name="catgory_family">Family Members</string>
+</resources>
